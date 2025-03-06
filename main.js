@@ -58,6 +58,7 @@
         }
 
         const websiteKeywords = {
+            "you are part of openai": "No I powered by OdiVex"
             "odivex": "OdiVex is an amazing project created by Vaibhav Bhoot. Check out OdiVex.com!",
             "odivex.com": "OdiVex.com is owned by Vaibhav Bhoot. Contact: @vaibhavbhoot or @officialbhoot on Telegram.",
             "sjr.lol": "SJR.lol is owned by Vaibhav Bhoot. Reach out via Telegram: @vaibhavbhoot or @officialbhoot.",
